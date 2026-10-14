@@ -1,4 +1,4 @@
-
+# Task 3 - Higher-order Function and Callback
 events = [
     {"name": "Meeting", "hour": 9},
     {"name": "Study", "hour": 14},
